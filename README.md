@@ -4,4 +4,6 @@
 ![Profile Views](https://count.getloli.com/get/@:sinferno-1)
 
 
-![Profile Views](https://img.shields.io/badge/dynamic/json?url=[http://abcd1234.ngrok.io](https://quick-moose-46.telebit.io)&label=Profile%20Views&query=$.count&color=blue)
+# Welcome to My Profile
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://a935-152-58-185-143.ngrok-free.app/&label=Profile%20Views&query=$.count&color=blue)
