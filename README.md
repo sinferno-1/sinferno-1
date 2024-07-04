@@ -1,4 +1,4 @@
 
 # Bruhh
-![](https://komarev.com/ghpvc/?username=sinferno-1)
 
+![Profile Views](https://count.getloli.com/get/@:username)
